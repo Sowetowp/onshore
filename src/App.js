@@ -16,7 +16,7 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path="/" element={<Preloader/>}/>
+          <Route path="/" element={<Home/>}/>
         </Routes>
       </Router>
       <Toaster/>
