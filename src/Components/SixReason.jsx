@@ -5,8 +5,8 @@ const SixReason = () => {
   return (
     <>
         <div className='container-fluid'>
-            <div className='row bg-info'>
-                <div className='col-md-6 p-5' style={{position:"relative"}}>
+            <div className='row purple'>
+                <div className='col-md-6 p-md-5 p-3' style={{position:"relative"}}>
                     <div className='sticky'>
                         <p className='mb-0 sixreason'>Six reasons why clients choose Valcon</p>
                     </div>
